@@ -1,0 +1,20 @@
+{
+  "name": "puppet-consul_do",
+  "version": "0.1.0",
+  "author": "limed",
+  "summary": "Installs consul_do",
+  "license": "MPL 2.0",
+  "source": "https://github.com/nubisproject/nubis-puppet-consul-do",
+  "project_page": "https://github.com/nubisproject/nubis-puppet-consul-do",
+  "issues_url": "https://github.com/nubisproject/puppet-consul_do/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    },
+    {
+      "name": "maestrodev/wget",
+      "version_requirement": ">= 1.7.0"
+    }
+  ]
+}
