@@ -4,9 +4,9 @@
   "author": "limed",
   "summary": "Installs consul_do",
   "license": "MPL 2.0",
-  "source": "https://github.com/nubisproject/nubis-puppet-consul-do",
-  "project_page": "https://github.com/nubisproject/nubis-puppet-consul-do",
-  "issues_url": "https://github.com/nubisproject/puppet-consul_do/issues",
+  "source": "https://github.com/nubisproject/nubis-puppet-consul_do",
+  "project_page": "https://github.com/nubisproject/nubis-puppet-consul_do",
+  "issues_url": "https://github.com/nubisproject/nubis-puppet-consul_do/issues",
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",
