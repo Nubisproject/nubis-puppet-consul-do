@@ -1,6 +1,6 @@
 {
   "name": "puppet-consul_do",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "author": "limed",
   "summary": "Installs consul_do",
   "license": "MPL 2.0",
