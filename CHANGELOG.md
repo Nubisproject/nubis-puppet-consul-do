@@ -7,6 +7,10 @@
 
 - Tag release [\#4](https://github.com/nubisproject/nubis-puppet-consul_do/issues/4)
 
+**Merged pull requests:**
+
+- Update CHANGELOG for v1.1.0 release [\#5](https://github.com/nubisproject/nubis-puppet-consul_do/pull/5) ([tinnightcap](https://github.com/tinnightcap))
+
 ## [1.0.1](https://github.com/nubisproject/nubis-puppet-consul_do/tree/1.0.1) (2016-04-08)
 **Implemented enhancements:**
 
