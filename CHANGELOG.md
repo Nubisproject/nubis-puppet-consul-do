@@ -1,5 +1,16 @@
 # Change Log
 
+## [v1.2.0](https://github.com/nubisproject/nubis-puppet-consul_do/tree/v1.2.0) (2016-07-07)
+[Full Changelog](https://github.com/nubisproject/nubis-puppet-consul_do/compare/v1.1.0...v1.2.0)
+
+**Closed issues:**
+
+- Tag v1.2.0 release [\#6](https://github.com/nubisproject/nubis-puppet-consul_do/issues/6)
+
+**Merged pull requests:**
+
+- Update CHANGELOG for v1.2.0 release [\#7](https://github.com/nubisproject/nubis-puppet-consul_do/pull/7) ([tinnightcap](https://github.com/tinnightcap))
+
 ## [v1.1.0](https://github.com/nubisproject/nubis-puppet-consul_do/tree/v1.1.0) (2016-04-18)
 [Full Changelog](https://github.com/nubisproject/nubis-puppet-consul_do/compare/1.0.1...v1.1.0)
 
